@@ -134,17 +134,11 @@ dup2를 이용하여 현재 프로세스가 받아들일 표준 출력을 전달
 
 #### 기본적인 실행과 간단한 명령어 처리
 
-![image-20201207033401838](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20201207033401838.png)
-
 #### 다양한 특수 기호 처리
-
-![image-20201207033604552](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20201207033604552.png)
 
 그냥 ls를 진행할 경우 현재 디렉토리에 존재하는 파일들을 보여주지만 ;을 이용하여 빈 디렉토리에서 실행 되므로 아무런 출력이 이루어지지 않습니다.
 
 #### 파이프
-
-![image-20201207034316547](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20201207034316547.png)
 
 기능 4의 파이프 3개를 확인합니다
 
